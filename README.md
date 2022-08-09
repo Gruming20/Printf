@@ -3,8 +3,10 @@ Project:- 0x11. C - printf PROJECT by "Earnest Thomson and Girum Getachew"
 - In this project we can print a file and we must not push any c file containing a main function in the root directory and must use a test folder that contains all our tests including main funtions
 - Our main files are include our main header file eg. "main.h", #include "main.h"
 - This project contains flowcharts
-   ![flow_chart1](flow_chart1.png)
-   ![flow_chart2](flow_chart2.png)
+   ![](flow_chart1.png)
+   ![](flow_chart2.png)
+
+
 The project have 2 mandatory questions and 14 advanced questions which are listed below
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
