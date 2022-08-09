@@ -1,4 +1,4 @@
-Project:- 0x11. C - printf PROJECT by "Earnest Thomson and Girum Getachew"
+Project:- 0x11. C - printf PROJECT by "Ernest Thompson and Girum Getachew"
 
 - In this project we can print a file and we must not push any c file containing a main function in the root directory and must use a test folder that contains all our tests including main funtions
 - Our main files are include our main header file eg. "main.h", #include "main.h"
